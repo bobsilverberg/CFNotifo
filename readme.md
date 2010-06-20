@@ -11,7 +11,7 @@ CFNotifo is an API wrapper for the Notifo service which makes subscribing users 
 ### Requirements ###
 
 1. [ColdFusion 8+](http://www.coldfusion.com), [Railo](http://www.getrailo.org/) or [OpenBD](http://www.openbluedragon.org/)
-2. A [Notifo](http://notifo.com) account, for testing
+2. A [Notifo](http://notifo.com) service account, for sending notifications
 
 ### Usage ###
 
@@ -42,4 +42,4 @@ Send a notification to a user:
 
 ### Demo ###
 
-An online demo of CFNotifo is available on [my blog](http://www.silverwareconsulting.com/notifo.cfm)
+An online demo of CFNotifo is available on [my blog](http://www.silverwareconsulting.com/CFNotifo.cfm)
